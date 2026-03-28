@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Yasir 👋
 
-<!--
-**ethicalhub/ethicalhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Web3 Developer
 
-Here are some ideas to get you started:
+I build clean, scalable user interfaces with a focus on performance, usability, and real-world impact.  
+Strong focus on React, Next.js, and React Native, with hands-on experience in web3 and smart contract integration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Tech Focus
+- Frontend Architecture & System Design  
+- Web3 UX & dApp development  
+- Performance optimization & scalable UI  
+
+---
+
+## ⚙️ Stack
+React • Next.js • React Native • TypeScript • Tailwind  
+Web3: Wallet integration • Contract interaction • Multi-chain dApps  
+Backend: Fastify • Express • Next.js APIs
+---
+
+## 🌍 Connect
+- Portfolio: [(My Portfolio)](https://yasir-etc.vercel.app/)
+- LinkedIn: [(My LinkedIn)](https://www.linkedin.com/in/yasir-etc/)
+
+---
+
+## 📌 Note
+Frontend-first engineer with a growing focus on backend systems and smart contracts.
