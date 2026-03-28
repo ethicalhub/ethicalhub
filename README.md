@@ -1,9 +1,7 @@
-# Hi, I'm Yasir 👋
+# Hi, I'm Yasir.. Frontend Engineer 👋
 
-Frontend Web3 Developer
-
-I build clean, scalable user interfaces with a focus on performance, usability, and real-world impact.  
-Strong focus on React, Next.js, and React Native, with hands-on experience in web3 and smart contract integration.
+A frontend-focused software engineer with 4+ years of experience building scalable, high-performance applications using React, Next.js, React Native, TypeScript, and Tailwind CSS. 
+Hands-on experience with smart contracts, GraphQL, and multi-chain wallet integrations.
 
 ---
 
